@@ -28,19 +28,16 @@ cd Tv-series-Analysis
 
 ✅ 2. Create Virtual Environment
 bash
-Copy
-Edit
+
 python -m venv .venv
 ✅ 3. Activate the Virtual Environment
 On Windows:
 
 bash
-Copy
-Edit
+
 .venv\Scripts\activate
 
 ✅ 4. Install All Required Packages
 bash
-Copy
-Edit
+
 pip install -r requirements.txt
